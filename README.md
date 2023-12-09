@@ -39,7 +39,6 @@
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/e844472b-8ba2-4e5d-8493-27b783b5ed49" alt="카메라캘리브레이션">
 </details>
 
-<br>
 
   1. 렌즈 왜곡 계수는 [다크프로그래머](https://darkpgmr.tistory.com/32) 블로그에서 제공하는 tool을 사용하여 도출함
   2. Calibration 폴더 안에 있는 4개의 코드로 실험 영상을 보정할 수 있음
