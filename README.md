@@ -30,4 +30,8 @@
 
 # ✨ 프로젝트 내용
 
-### 1. 카메라 왜곡 보정
+### 1. 카메라 캘리브레이션
+> 카메라의 파라미터를 추정하는 과정
+
+<img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
+
