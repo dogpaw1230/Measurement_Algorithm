@@ -3,7 +3,7 @@ import glob
 import natsort
 import cv2
 import datetime
-import time 
+import time
 
 # 날짜 및 시간으로 폴더 만들기
 now = time.localtime()
