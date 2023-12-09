@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import glob, natsort
 import datetime
-import time
+import time 
  
 j = 1
 now = time.localtime()
