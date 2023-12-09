@@ -47,3 +47,14 @@
      - 렌즈 왜곡 계수를 사용해 렌즈 왜곡으로 발생하는 이미지 왜곡을 보정 **Calibration/2_img_calibauto.py** 코드를 참고
      - 기준점을 설정하여 이미지를 원근 변환 **Calibration/3_img_perspective.py** 코드를 참고
      - 보정이 완료된 이미지를 다시 동영상으로 변환 **Calibration/4_img_to_video.py** 코드를 참고
+    
+<br>
+
+### 2. HSV 색변환을 이용한 외곽선 좌표 검출
+
+<details>
+  <summary>HSV 색변환 및 외곽선 좌표 검출 설명</summary>
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/c9d903ad-9b4a-470b-be74-4f781d57d324" alt="카메라캘리브레이션">
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/e844472b-8ba2-4e5d-8493-27b783b5ed49" alt="카메라캘리브레이션">
+</details>
