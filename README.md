@@ -5,7 +5,7 @@
 
 ### 2. 연구 배경
 
-<img width:800px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/49b3bca1-e860-4450-aea4-54947fd936b5" alt="연구배경">
+<img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/49b3bca1-e860-4450-aea4-54947fd936b5" alt="연구배경">
 
 <br>
 
@@ -23,7 +23,7 @@
 
 - V 굽힘 실험 구성 및 재료 변형 측정 예시
   
-<img width:800px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4d73979d-2901-4dbe-817f-ae1d16c9139a" alt="실험장비_측정예시">
+<img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4d73979d-2901-4dbe-817f-ae1d16c9139a" alt="실험장비_측정예시">
 
 <br><br>
 
