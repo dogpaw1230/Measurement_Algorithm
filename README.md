@@ -18,7 +18,7 @@
 
 ### 3. 연구 목적
 
-  1. 스마트폰 카메라와 Python 기반의 OpenCV를 활용한 영상 처리를 통해 재료가 굽힘 변형할 때, 성형 골률을 측정하는 방법 제기
+  1. 스마트폰 카메라와 Python 기반의 OpenCV를 활용한 영상 처리를 통해 재료가 굽힘 변형할 때, 성형 골률을 측정하는 방법 제시
   2. 측정한 성형 곡률과 재료 시험기의 하중 데이터를 이용하여 곡률-모멘트 선도를 도출하고, 마그네슘 합금의 항복점과 탄성 계수를 도출하여 재료 성질 분석
 
 - V 굽힘 실험 구성 및 재료 변형 측정 예시
@@ -54,7 +54,10 @@
 
 <details>
   <summary>HSV 색변환 및 외곽선 좌표 검출 설명</summary>
-    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
-    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/c9d903ad-9b4a-470b-be74-4f781d57d324" alt="카메라캘리브레이션">
-    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/e844472b-8ba2-4e5d-8493-27b783b5ed49" alt="카메라캘리브레이션">
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4ca0aeb8-c0b2-4bea-a691-a3fc98d9345c" alt="외곽선검출">
 </details>
+
+
+  1. 
+
+
