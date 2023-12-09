@@ -32,7 +32,15 @@
 
 ### 1. 카메라 캘리브레이션
 
-<img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
+## 접기 시작
+
+<details>
+  <summary>접기/펼치기</summary>
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
+  접은 내용(ex 소스 코드)
+</details>
+
+
 
 <br>
 
