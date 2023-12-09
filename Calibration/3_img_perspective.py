@@ -1,7 +1,7 @@
 import cv2, glob, natsort
 import numpy as np
 import datetime
-import time
+import time 
 
 now = time.localtime()
 s = "%04d-%02d-%02d" % (now.tm_year, now.tm_mon, now.tm_mday)
