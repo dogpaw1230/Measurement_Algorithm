@@ -58,6 +58,17 @@
 </details>
 
 
-  1. 
+  1. 실험 영상에 HSV 색변환을 적용한 뒤, 재료의 외곽선 좌표를 검출하여 csv 파일로 저장
+  2. 검출한 좌표 데이터를 가공하여 재료의 성형 곡률 및 각도를 계산
+  3. **Curvature and Angle Measurement/Curvature and angle measurement p to m.py** 코드를 참고
+
+<br>
+
+### 3. 재료의 성형 곡률 측정
+
+<details>
+  <summary>성형 곡률 측정 방법 - Fixed Span 방법</summary>
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4ca0aeb8-c0b2-4bea-a691-a3fc98d9345c" alt="외곽선검출">
+</details>
 
 
