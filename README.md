@@ -71,3 +71,13 @@
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/0cad57c8-1c40-4cfd-9fee-c136b5f04ff1" alt="FixedSpan">
 </details>
 
+  1. Pandas와 Numpy 라이브러리를 활용하여 재료의 굽힘 변형이 일어나는 영역의 좌표 데이터를 필터링
+  2. 필터링한 좌표 데이터에서 y값이 가장 큰 값을 찾고, 그 점을 재료 변형부의 중심으로 가정
+  3. 중심점의 좌우로 곡률을 측정하기 위한 적정한 데이터 길이(Span)를 설정 ➔ 본 연구에서는 400 픽셀로 설정
+  4. 측정 오차는 Least Square Method의 residual로 정함
+  5. **Curvature and Angle Measurement/Curvature and angle measurement p to m.py** 코드를 참고
+
+<br>
+
+
+
