@@ -68,7 +68,6 @@
 
 <details>
   <summary>성형 곡률 측정 방법 - Fixed Span 방법</summary>
-    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4ca0aeb8-c0b2-4bea-a691-a3fc98d9345c" alt="외곽선검출">
+    <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/0cad57c8-1c40-4cfd-9fee-c136b5f04ff1" alt="FixedSpan">
 </details>
-
 
