@@ -3,8 +3,6 @@
 ### 기술 스택
 **Python, OpenCV, Pandas, Numpy**
 
-<br>
-
 ### 1. 연구 제목
 > OpenCV 기반의 머신 비전 알고리즘을 사용한 재료 변형 측정 기술 개발
 
