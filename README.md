@@ -36,7 +36,7 @@
 ### 1. 카메라 캘리브레이션
 
 <details>
-  <summary>캘리브레이션 설명</summary>
+  <summary>캘리브레이션 설명 (펼쳐보기)</summary>
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/d7a1b930-0130-4d22-a7d0-09c76e3a072f" alt="카메라캘리브레이션">
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/c9d903ad-9b4a-470b-be74-4f781d57d324" alt="카메라캘리브레이션">
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/e844472b-8ba2-4e5d-8493-27b783b5ed49" alt="카메라캘리브레이션">
@@ -56,7 +56,7 @@
 ### 2. HSV 색변환을 이용한 외곽선 좌표 검출
 
 <details>
-  <summary>HSV 색변환 및 외곽선 좌표 검출 설명</summary>
+  <summary>HSV 색변환 및 외곽선 좌표 검출 설명 (펼쳐보기)</summary>
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/4ca0aeb8-c0b2-4bea-a691-a3fc98d9345c" alt="외곽선검출">
 </details>
 
@@ -70,7 +70,7 @@
 ### 3. 재료의 성형 곡률 측정
 
 <details>
-  <summary>성형 곡률 측정 방법 - Fixed Span 방법</summary>
+  <summary>성형 곡률 측정 방법 - Fixed Span 방법 (펼쳐보기)</summary>
     <img width:700px src="https://github.com/dogpaw1230/Measurement_Algorithm/assets/146051611/0cad57c8-1c40-4cfd-9fee-c136b5f04ff1" alt="FixedSpan">
 </details>
 
